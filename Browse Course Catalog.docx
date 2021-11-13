@@ -1,0 +1,18 @@
+Module : Browse Course Catalog
+
+Description: This function will help user to add, update, delete and search course
+
+Use Case Specification
+Description	Browse Course Catalog
+Input	User ID
+Sourse	Form
+Alternate case	
+Outputs	List of available courses 
+Destination	None
+Precondition	User Login
+Post Condition	
+Side Effects	
+
+Use Case Diagram Of Browse Course Catalog
+ 
+
